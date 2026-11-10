@@ -1,0 +1,20 @@
+{
+  "name": "雪碧同步器",
+  "icon": "icon.png",
+  "version": "1.0.0",
+  "description": "为雪碧的游戏提供代理联网激活传输等功能",
+  "author": "雪碧",
+  "website": "https://xbgw.sxb.asia",
+  "entry": "sprite_sync.wasm",
+  "wasi_version": 3,
+  "api_level": 4,
+  "permissions": [
+    "device",
+    "interconnect",
+    "network",
+    "register_interconnect_recv",
+    "thirdpartyapp",
+    "request"
+  ],
+  "additional_files": []
+}
