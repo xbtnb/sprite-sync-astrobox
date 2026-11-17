@@ -1,8 +1,8 @@
 {
   "name": "雪碧同步器",
   "icon": "icon.png",
-  "version": "1.0.0",
-  "description": "为雪碧的游戏提供代理联网激活传输等功能",
+  "version": "1.0.1",
+  "description": "为雪碧的游戏提供代理联网 激活传输等功能",
   "author": "雪碧",
   "website": "https://xbgw.sxb.asia",
   "entry": "sprite_sync.wasm",
